@@ -4,8 +4,8 @@ const chatId = ""; // ID Grup Chat
 
 const settings = {
   fileId: fileId,
-  sheetName: "todolist",
-  rangeSheet: "B3:I57",
+  sheetName: "",
+  rangeSheet: "B3:I51",
   telegramAccessToken: token,
   chatId: chatId,
   imageName: "Report",
