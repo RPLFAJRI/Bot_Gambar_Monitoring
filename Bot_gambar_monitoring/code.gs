@@ -1,6 +1,6 @@
-const token = "7411852319:AAH8Bu60SdWp1XLMcT9-BhCYnVSOvXscGeE"; // Token bot Telegram
-const fileId = "1h4sQVPBL407q7Fp_wIuZtQW8tzcN-XgqZqG_SxvxXZU"; // ID Google Sheets
-const chatId = "6462511853"; // ID Grup Chat
+const token = ""; // Token bot Telegram
+const fileId = ""; // ID Google Sheets
+const chatId = ""; // ID Grup Chat
 
 const settings = {
   fileId: fileId,
